@@ -26,8 +26,8 @@ import json
 import time
 import Adafruit_DHT
 
-deviceId = 'DVDsquZx'
-deviceKey = '4v9qgv9fXNUYKudK' 
+deviceId = 'DqT48OAC'
+deviceKey = 'qJoJaGKdnA6gtKu0' 
 
 def post_to_mcs(payload): 
 	headers = {"Content-type": "application/json", "deviceKey": deviceKey} 
