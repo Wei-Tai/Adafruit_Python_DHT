@@ -25,7 +25,7 @@ import Adafruit_DHT
 import time
 import sys
 import http.client as http
-Import urllib
+import urllib
 import json
 deviceId = “DqT48OAC“ 
 deviceKey = “qJoJaGKdnA6gtKu0“ 
